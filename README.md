@@ -20,7 +20,7 @@
 </p>
 
 
-[![Gabriell GitHub stats](https://github-readme-stats.vercel.app/api?username=GabriellReis14&show_icons=true&theme=dark)](https://github.com/GabriellReis14/Vercel)
+[![Gabriell GitHub stats](https://github-readme-stats.vercel.app/api?username=GabriellReis14&show_icons=true&theme=dracula)](https://github.com/GabriellReis14/Vercel)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellReis14&layout=compact&theme=dark)](https://github.com/GabriellReis14/Vercel)
 
