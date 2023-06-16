@@ -11,18 +11,18 @@
   <a href="https://www.linkedin.com/in/gabriell-reis-alvarenga/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:https://gabrielldiflen@gmail.com?subject=Olá%20Rodrigo">
+  <a href="mailto:https://gabrielldiflen@gmail.com?subject=Olá%20Gabriell">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:https://gabriellreis_2009@hotmail.com?subject=Olá%20Rodrigo">
+  <a href="mailto:https://gabriellreis_2009@hotmail.com?subject=Olá%20Gabriell">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;
 </p>
 
 
-![Gabriell GitHub stats](https://github-readme-stats.vercel.app/api?username=GabriellReis14&show_icons=true&theme=dark)
+[![Gabriell GitHub stats](https://github-readme-stats.vercel.app/api?username=GabriellReis14&show_icons=true&theme=dark)](https://github.com/GabriellReis14/Vercel)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellReis14&layout=compact&theme=dark)](https://github.com/GabriellReis14/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellReis14&layout=compact&theme=dark)](https://github.com/GabriellReis14/Vercel)
 
 
 <h4> 👨‍💻 Atualmente estou trabalhando em ...</h4>
