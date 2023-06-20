@@ -20,9 +20,9 @@
 </p>
 
 
-[![Gabriell GitHub stats](https://github-readme-stats.vercel.app/api?username=GabriellReis14&show_icons=true&theme=dracula)](https://github.com/GabriellReis14/Vercel)
+[![Gabriell GitHub stats](https://github-readme-stats-eta-seven-26.vercel.app/api?username=GabriellReis14&show_icons=true&theme=dracula)](https://github.com/GabriellReis14/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellReis14&layout=donut&theme=dracula)](https://github.com/GabriellReis14/Vercel)
+[![Top Langs](https://github-readme-stats-eta-seven-26.vercel.app/api/top-langs/?username=GabriellReis14&layout=donut&theme=dracula)](https://github.com/GabriellReis14/github-readme-stats)
 
 
 <h4> 👨‍💻 Atualmente estou trabalhando em ...</h4>
