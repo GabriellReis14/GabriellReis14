@@ -1,39 +1,64 @@
-### Fala ae! Eu sou o Gabriell Reis!👋
 
-<br />
-<br />
+<h2>👋 Olá! Eu sou o Gabriell Reis</h2>
 
-<p align='center'>
-  Moro em Campo Belo, sul de Minas Gerais🔺, no Brasil e estou trabalhando como programador na <b>DATACAMP LTDA</b> 
-</p>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/gabriell-reis-alvarenga/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:https://gabrielldiflen@gmail.com?subject=Olá%20Gabriell">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:https://gabriellreis_2009@hotmail.com?subject=Olá%20Gabriell">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;
-</p>
+<p><em>Desenvolvedor Full Stack com mais de 5 anos de experiência em sistemas corporativos e automação comercial.</em></p>
 
-![Gabriell GitHub stats](https://github-readme-stats-gabriellreis14.vercel.app/api?username=GabriellReis14&show_icons=true&theme=dracula&count_private=true&show_icons=true&include_all_commits=true)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriell-reis-alvarenga/)](https://www.linkedin.com/in/gabriell-reis-alvarenga/)
+[![GitHub followers](https://img.shields.io/github/followers/GabriellReis14?label=Follow&style=social)](https://github.com/GabriellReis14)
 
-![Top Langs](https://github-readme-stats-gabriellreis14.vercel.app/api/top-langs/?username=GabriellReis14&layout=donut&theme=dracula&count_private=true&show_icons=true&include_all_commits=true)
+---
 
+### 💻 Sobre mim
 
-<h4> 👨‍💻 Atualmente estou trabalhando em ...</h4>
-<div style="display: inline_block"><br/>
-    <img align="center" alt="Delphi" src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white" />
-    <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img align="center" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="Node.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-    <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1Ee" />
-    <img align="center" alt="MicrosoftSQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-    <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
+Sou apaixonado por desenvolvimento de software e por aprender novas tecnologias. Tenho facilidade em entender e trabalhar com stacks que nunca usei antes. Já atuei com manutenção de sistemas legados (Delphi, .NET) e também em projetos modernos usando React, Next.js e Node.js.
+
+Atualmente trabalho com um sistema ERP focado em automação comercial, mas nas horas vagas gosto de criar projetos pessoais e fazer freelances para resolver problemas reais.
+
+---
+
+### 🛠️ Tecnologias que utilizo
+
+```javascript
+const gabriell = {
+  languages: ["TypeScript", "JavaScript", "Delphi", "C#", "SQL", "PHP", "Java", "C++"],
+  frontend: ["React", "Next.js", "Tailwind CSS", "PrimeReact"],
+  backend: ["Node.js", "NestJS", ".NET", "Delphi"],
+  databases: ["PostgreSQL", "SQL Server", "Firebird", "MySQL"],
+  tools: ["Git", "Docker", "GitHub Actions"],
+  other: ["Clean Code", "API REST", "Versionamento com Git", "Infraestrutura básica (Linux, pfSense, VPN)"]
+};
+```
+
+---
+
+### 📈 Estatísticas do GitHub
+
+![Gabriell's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabriellReis14&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellReis14&layout=compact&theme=radical)
+
+---
+
+### 🚀 Projetos em destaque
+
+- **ERP Automação Comercial (Delphi + SQL Server)**
+- **ERP Gestão Online (Next.js + Django + PostgreSQL)**
+- **Sistema de Controle de Estoque (Node.js + PostgreSQL + React)**
+- **API de Cadastro de Clientes (NestJS + PostgreSQL)**
+
+*(Outros projetos em desenvolvimento...)*
+
+---
+
+### 📌 Curiosidade sobre mim:
+
+Se surgir um sistema novo, numa linguagem que nunca vi… em poucos dias eu já estou mexendo! 🚀
+
+---
+
+Se quiser entrar em contato, pode me chamar no [LinkedIn](https://www.linkedin.com/in/gabriell-reis-alvarenga/) ou ver meus repositórios aqui mesmo.
+
+---
+
+⭐️ From [Gabriell Reis](https://github.com/GabriellReis14)
