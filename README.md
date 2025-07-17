@@ -1,36 +1,64 @@
-<h2 align="left">Hi 👋! My name is Gabriell and I'm a Fullstack Developer</h2>
 
-###
+<h2>👋 Olá! Eu sou o Gabriell Reis</h2>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-###
+<p><em>Desenvolvedor Full Stack com mais de 5 anos de experiência em sistemas corporativos e automação comercial.</em></p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriell-reis-alvarenga/)](https://www.linkedin.com/in/gabriell-reis-alvarenga/)
+[![GitHub followers](https://img.shields.io/github/followers/GabriellReis14?label=Follow&style=social)](https://github.com/GabriellReis14)
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+### 💻 Sobre mim
 
-###
+Sou apaixonado por desenvolvimento de software e por aprender novas tecnologias. Tenho facilidade em entender e trabalhar com stacks que nunca usei antes. Já atuei com manutenção de sistemas legados (Delphi, .NET) e também em projetos modernos usando React, Next.js e Node.js.
+
+Atualmente trabalho com um sistema ERP focado em automação comercial, mas nas horas vagas gosto de criar projetos pessoais e fazer freelances para resolver problemas reais.
+
+---
+
+### 🛠️ Tecnologias que utilizo
+
+```javascript
+const gabriell = {
+  languages: ["TypeScript", "JavaScript", "Delphi", "C#", "SQL", "PHP", "Java", "C++"],
+  frontend: ["React", "Next.js", "Tailwind CSS", "PrimeReact"],
+  backend: ["Node.js", "NestJS", ".NET", "Delphi"],
+  databases: ["PostgreSQL", "SQL Server", "Firebird", "MySQL"],
+  tools: ["Git", "Docker", "GitHub Actions"],
+  other: ["Clean Code", "API REST", "Versionamento com Git", "Infraestrutura básica (Linux, pfSense, VPN)"]
+};
+```
+
+---
+
+### 📈 Estatísticas do GitHub
+
+![Gabriell's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabriellReis14&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellReis14&layout=compact&theme=radical)
+
+---
+
+### 🚀 Projetos em destaque
+
+- **ERP Automação Comercial (Delphi + SQL Server)**
+- **ERP Gestão Online (Next.js + Django + PostgreSQL)**
+- **Sistema de Controle de Estoque (Node.js + PostgreSQL + React)**
+- **API de Cadastro de Clientes (NestJS + PostgreSQL)**
+
+*(Outros projetos em desenvolvimento...)*
+
+---
+
+### 📌 Curiosidade sobre mim:
+
+Se surgir um sistema novo, numa linguagem que nunca vi… em poucos dias eu já estou mexendo! 🚀
+
+---
+
+Se quiser entrar em contato, pode me chamar no [LinkedIn](https://www.linkedin.com/in/gabriell-reis-alvarenga/) ou ver meus repositórios aqui mesmo.
+
+---
+
+⭐️ From [Gabriell Reis](https://github.com/GabriellReis14)
